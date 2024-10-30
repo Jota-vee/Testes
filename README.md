@@ -7,3 +7,8 @@
 | Linha 3    | Dados 5    | Dados 6    |
 
 > so sei que nada sei.
+
+#### lista:
+- elemento 1
+* elemento 2
++ elemento 3
