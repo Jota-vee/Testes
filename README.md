@@ -17,5 +17,14 @@
 
 [parabéns, você acabou de ganhar R$1.000.000 !!](https://tigrinho.io/)
 
-**negro** __também negro__
-*italiano* _também italiano_
+**negro** 
+__também negro__
+*italiano* 
+_também italiano_
+
+`codigo`
+
+```
+muito mais
+codigo
+```
