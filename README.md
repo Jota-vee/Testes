@@ -6,7 +6,7 @@
 | Linha 2    | Dados 3    | Dados 4    |
 | Linha 3    | Dados 5    | Dados 6    |
 
-> so sei que nada sei.
+> só sei que nada sei.
 
 #### lista:
 - elemento 1
