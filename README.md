@@ -1,4 +1,4 @@
-### Repositorio para aprender a usar o MarkDown.
+in### Repositorio para aprender a usar o MarkDown.
 
 | Coluna 1   | Coluna 2   | Coluna 3   |
 |------------|------------|------------|
@@ -22,9 +22,17 @@ __também negro__
 *italiano* 
 _também italiano_
 
-`codigo`
+**em python**
+`print("Ola mundo !!")`
 
+**em java**
 ```
-muito mais
-codigo
+pakage ola mundo;
+
+public class ola mundo {
+    public static void main(String[]args) {
+        System.out.println("Ola mundo");
+    }
+}
+
 ```
