@@ -1,4 +1,4 @@
-in### Repositorio para aprender a usar o MarkDown.
+### Repositorio para aprender a usar o MarkDown.
 
 | Coluna 1   | Coluna 2   | Coluna 3   |
 |------------|------------|------------|
